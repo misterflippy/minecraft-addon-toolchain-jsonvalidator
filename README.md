@@ -1,3 +1,6 @@
+#Notice
+Since Mojang has deprecated the bedrock scripting API, this repository is now archived.
+
 # minecraft-addon-toolchain-jsonvalidator
 JSON validator for [minecraft-addon-toolchain](https://github.com/minecraft-addon-tools/minecraft-addon-toolchain). Validates each json file in the add-on. Build is halted if there are errors.
 
